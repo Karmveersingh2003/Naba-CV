@@ -130,7 +130,7 @@ export default function Section1() {
             <span className="s1-icon s1-email"><i className="fa-solid fa-envelope" /></span>
             <span>Copy Email</span>
           </a>
-          <a href="https://www.linkedin.com/in/nabajyoti-medhi" target="_blank" rel="noopener noreferrer" className="s1-social">
+          <a href="https://in.linkedin.com/in/naba-jyoti-medhi-2b02b62aa" target="_blank" rel="noopener noreferrer" className="s1-social">
             <span className="s1-icon s1-linkedin"><i className="fa-brands fa-linkedin-in" /></span>
             <span>LinkedIn</span>
           </a>
