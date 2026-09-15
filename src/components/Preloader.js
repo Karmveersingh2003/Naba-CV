@@ -167,7 +167,7 @@ export default function Preloader({ onComplete }) {
     }, 4200);
 
     return () => [t1, t2, t3, t4, t5].forEach(clearTimeout);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+  // eslint-disable-next-line
   }, []);
 
   const converged = phase === 'converged' || phase === 'shock';
